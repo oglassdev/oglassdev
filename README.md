@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate high school software developer wh
 
 ## Socials 🌐
 - [YouTube](https://youtube.com/oglass)
+- [GitLab](https://gitlab.com/oglassdev)
 
 ## Tech Stack 🛠️
 - Kotlin
