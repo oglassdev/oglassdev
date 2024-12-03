@@ -1,5 +1,5 @@
-# Hey there! 👋 I'm oglass
-Welcome to my GitHub profile! I'm a passionate high school software developer who is learning Rust, Kotlin, and a couple other technologies.
+## Hey there! I'm oglass.
+I'm a passionate high school software developer who develops Minecraft servers, websites, and more.
 
 ## About Me ℹ️
 - 💻 Minecraft Developer (Owner @ Bladehunt)
