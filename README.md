@@ -10,12 +10,32 @@ Welcome to my GitHub profile! I'm a passionate high school software developer wh
 - [YouTube](https://youtube.com/oglass)
 - [GitLab](https://gitlab.com/oglassdev)
 
-## Tech Stack 🛠️
-- Kotlin
-- Rust
-- Docker
-- Postgres
-- Redis (KeyDB)
+## Technologies Used 🛠️
+
+### Server Development
+
+[![Server Development Skills](https://skillicons.dev/icons?i=kotlin,ktor,mongodb,redis,idea&theme=light)](https://skillicons.dev)
+
+Along with...
+- Minestom
+- kotlinx.rpc
+- kotlinx.coroutines
+- kotlinx.serialization
+
+### Web Development
+
+[![Web Development Skills](https://skillicons.dev/icons?i=js,ts,solidjs,cloudflare,tailwind,supabase,bun,vscode&theme=light)](https://skillicons.dev)
+
+Along with...
+- Drizzle
+- Cloudflare D1, KV
+
+### Miscellaneous
+
+[![Miscellaneous Skills](https://skillicons.dev/icons?i=rust,tauri,linux,apple&theme=light)](https://skillicons.dev)
+
+Along with...
+- RustRover
 
 <!--
 ## GitHub Stats 📈
