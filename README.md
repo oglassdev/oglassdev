@@ -24,7 +24,7 @@ Along with...
 
 ### Web Development
 
-[![Web Development Skills](https://skillicons.dev/icons?i=js,ts,solidjs,cloudflare,tailwind,supabase,bun,vscode&theme=light)](https://skillicons.dev)
+[![Web Development Skills](https://skillicons.dev/icons?i=js,ts,solidjs,nextjs,cloudflare,tailwind,supabase,bun,vscode&theme=light)](https://skillicons.dev)
 
 Along with...
 - Drizzle
