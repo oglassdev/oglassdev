@@ -4,7 +4,6 @@ I'm a passionate high school software developer who develops Minecraft servers, 
 ## About Me ℹ️
 - 💻 Minecraft Developer (Owner @ Bladehunt)
 - 🎥 Small YouTuber (~300 subscribers)
-- 🌱 I’m currently learning more about Rust
 
 ## Socials 🌐
 - [YouTube](https://youtube.com/oglass)
@@ -12,30 +11,35 @@ I'm a passionate high school software developer who develops Minecraft servers, 
 
 ## Technologies Used 🛠️
 
-### Server Development
+### Languages
 
-[![Server Development Skills](https://skillicons.dev/icons?i=kotlin,ktor,mongodb,redis,idea&theme=light)](https://skillicons.dev)
+![Kotlin, Java, Typescript, JavaScript, Rust, Python](https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,ts,js,python)
 
-Along with...
-- Minestom
-- kotlinx.rpc
-- kotlinx.coroutines
-- kotlinx.serialization
+### Web Stack
 
-### Web Development
+![Web Stack](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,astro,betterauth,cloudflare,turso,drizzle,elysia,trpc,bun,caddy)
 
-[![Web Development Skills](https://skillicons.dev/icons?i=js,ts,solidjs,nextjs,cloudflare,tailwind,supabase,bun,vscode&theme=light)](https://skillicons.dev)
+- Upstash
 
-Along with...
-- Drizzle
-- Cloudflare D1, KV
+### Infrastructure
+
+![Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=redis,postgres,sqlite,mongodb,ktor,kubernetes,cloudflare)
+
+### Tooling
+
+![Tooling](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,gradle,pnpm,idea,vscode,github,git,kitty,docker)
+
+### Things I'm Learning
+
+![New Skills](https://go-skill-icons.vercel.app/api/icons?i=argocd,aws,rust)
 
 ### Miscellaneous
 
-[![Miscellaneous Skills](https://skillicons.dev/icons?i=rust,tauri,linux,apple&theme=light)](https://skillicons.dev)
+![Miscellaneous](https://go-skill-icons.vercel.app/api/icons?i=aftereffects,davinci,blender,tauri)
 
-Along with...
-- RustRover
+And...
+- Minestom
+- Most of the `kotlinx` ecosystem
 
 <!--
 ## GitHub Stats 📈
